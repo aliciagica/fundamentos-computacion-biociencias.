@@ -1,0 +1,14 @@
+219  grep -s secuencias_DNA.fasta
+  220  cd ..
+  221  cd proyecto_biotec
+  222  mkdir temp_borrar
+  223  cd temp_borrar
+  224  touch prueba.txt
+  225  rmdir temp_borra
+  226  cd ..
+  227  rmdir temp_borrar
+  228  rm temp_borrar
+  229  ls
+  230  rm -r temp_borrar
+  231  ls
+  232  cd scripts

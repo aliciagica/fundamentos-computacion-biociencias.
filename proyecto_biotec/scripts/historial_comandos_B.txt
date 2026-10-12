@@ -1,0 +1,70 @@
+ 191  history
+  190  cd scripts
+  189  cd ..
+  188  cat > resumen_tema_1.txt
+  187  cat documento.txt
+  186  ls
+  185  man cat
+  184  man cat
+  183  cat documento_contenido
+  182  ls
+  181  touch documentacion_10_octubre.txt
+  180  cd documentacion
+  179  cd ..
+  178  ls
+  177  touch scripts_1.txt
+  176  cd scripts
+  175  cd ..
+  174  ls
+  173  rm scripts
+  172  ls
+  171  touch datos_2.txt
+  170  cd datos_procesados
+  169  cd ..
+  168  ls
+  167  touch datos_1.txt
+  166  cd datos_crudos
+  165  cd ..
+  164  pwd
+  163  cd proyecto_biotec
+  162  ls
+  161  rm mis\ resultados\ finales.txt
+  160  ls
+  159  touch mis\ resultados\ finales\.txt
+  158  ls
+  157  touch mis_resultados_finales.txt
+  156  cd resultados
+  155  cd proyecto_biotec
+  154  ls proyecto_biotec
+  153  cd ~
+  152  cd~
+  151  ls
+  150  mkdir documentacion
+  149  mkdir resultados
+  148  mkdir scripts
+  147  ls
+  146  mkdir -p datos_procesados/scripts
+  145  ls
+  144  mkdir -p datos_crudos
+  143  cd proyecto_biotec
+  142  cd ~
+  141  cd aliciagica
+  140  ls
+  139  cd proyecto_biotec
+  138  ls proyecto_biotec
+  137  ls /Users/aliciagica/proyecto_biotec
+  136  ls -R proyecto_biotec
+  135  man ls
+  134  ls -r /Users/aliciagica/proyecto_biotec
+  133  pwd
+  132  ls -r /home/aliciagica/proyecto_biotec
+  131  ls -r proyecto_biotec
+  130  ls proyecto_biotec
+  129  cd ~
+  128  pwd
+  127  cd aliciagica
+  126  ls
+  125  mkdir documentacion
+  124  mkdir resultados
+  123  ls
+  122  cd proyecto_biotec

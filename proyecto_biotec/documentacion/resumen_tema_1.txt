@@ -1,0 +1,3 @@
+el kernel es el nucleo central del ordenador, que gestiona todo lo que le "encargamos" que haga
+la shell interpreta comandos y la terminal es la interfaz visual
+son fundamentales por su estabilidad y su capacidad de almacenar datos biologicos
